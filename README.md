@@ -3,5 +3,5 @@
 # Installation
 **pip install -r requirements.txt
 
-#How to run app?
+# How to run app?
 **python main.py
