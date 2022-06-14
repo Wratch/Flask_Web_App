@@ -1,6 +1,7 @@
-#Flask Web App
+# Flask Web App
 
-#Installation
-pip install -r requirements.txt
+# Installation
+**pip install -r requirements.txt
+
 #How to run app?
-python main.py
+**python main.py
